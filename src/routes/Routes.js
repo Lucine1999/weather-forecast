@@ -1,7 +1,6 @@
 import React from "react";
 import { lazy } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
-// import Dashboard from '../components/dashboardLayout/Dashboard';
 import { Suspense } from "react";
 import Loader from "../components/loader/Loader";
 
