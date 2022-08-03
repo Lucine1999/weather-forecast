@@ -1,0 +1,51 @@
+.menuItemStyle {
+  display: flex;
+  align-items: center;
+}
+.menuItemStyle span {
+  margin-left: 10px;
+}
+.notification-style .MuiBadge-badge {
+  background-color: #575555;
+}
+.menu-list-item-style a {
+  text-decoration: none;
+  color: #575555;
+}
+.menu-list-item-main-style a {
+  text-decoration: none;
+  color: white;
+}
+.weather-forecast-container {
+  margin: 40px auto;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  margin-top: 100px;
+}
+.weather-forecast-container .MuiPaper-root {
+  height: 100%;
+}
+.welcome-text {
+  margin-top: 70px;
+  margin-left: 50px;
+}
+.cities-select-style {
+  width: 200px;
+  margin-bottom: 20px !important;
+}
+.cities-select-style fieldset {
+  border: 1px solid #a5a5a53b;
+}
+.cities-select-style .MuiOutlinedInput-root:hover fieldset {
+  border: 1px solid #a5a5a53b;
+}
+.cities-select-style .Mui-focused fieldset {
+  border: 1px solid #a5a5a53b !important;
+}
+.cities-select-style .MuiSelect-select {
+  background-color: white;
+}
+.weather-data-style {
+  font-size: 14px;
+  color: "#365b5d";
+}
